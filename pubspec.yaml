@@ -7,6 +7,12 @@ environment:
   sdk: ">=2.1.0<3.0.0"
 
 dependencies:
+  animated_text_kit: ^2.0.1
+  firebase_core: ^0.4.4+3
+  cloud_firestore: ^0.13.5
+  firebase_auth: ^0.16.0
+  loading_overlay: ^0.2.1
+  
   flutter:
     sdk: flutter
 
